@@ -17,11 +17,6 @@ https://replit.com/@MikeBangar1/AfraidNauticalInformationtechnology#main.py < Li
 
 ![IMG_E0012](https://user-images.githubusercontent.com/113077964/214472721-835c1eaa-db26-4b82-b255-e10782ad9856.JPG)
 
-- Bit Amout
-- Hacker Recognition
-- Option to pick between hacker and no hacker
-- Identifies lost bits
-
 # First Code Sample
 
 ```
