@@ -6,7 +6,7 @@ Welcome to my Quantum Cryptography Simulation. This is a summative I have worked
 
 # Current Features
 
-https://replit.com/@MikeBangar1/AfraidNauticalInformationtechnology#main.py < Link to the running code
+This program was written in Python v3.6
 
 - Bit Amout
 - Hacker Recognition
