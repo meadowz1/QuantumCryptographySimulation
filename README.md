@@ -4,9 +4,18 @@ Welcome to my Quantum Cryptography Simulation. This is a summative I have worked
 
 ![image](https://user-images.githubusercontent.com/113077964/214464300-072a5798-edf5-4e5d-9025-3c8621e34541.png)
 
+# Current Features
+
+https://replit.com/@MikeBangar1/AfraidNauticalInformationtechnology#main.py < Link to the running code
+
 # Thinking Process
 
 ![IMG_E0012](https://user-images.githubusercontent.com/113077964/214472721-835c1eaa-db26-4b82-b255-e10782ad9856.JPG)
+
+- Bit Amout
+- Hacker Recognition
+- Option to pick between hacker and no hacker
+- Identifies lost bits
 
 # First Code Sample
 
