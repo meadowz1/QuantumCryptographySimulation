@@ -6,3 +6,6 @@ Welcome to my Quantum Cryptography Simulation. This is a summative I have worked
 
 # Thinking Process
 
+![IMG_E0012](https://user-images.githubusercontent.com/113077964/214472721-835c1eaa-db26-4b82-b255-e10782ad9856.JPG)
+
+# First Code Sample
