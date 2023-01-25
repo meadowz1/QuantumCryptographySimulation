@@ -8,6 +8,11 @@ Welcome to my Quantum Cryptography Simulation. This is a summative I have worked
 
 https://replit.com/@MikeBangar1/AfraidNauticalInformationtechnology#main.py < Link to the running code
 
+- Bit Amout
+- Hacker Recognition
+- Option to pick between hacker and no hacker
+- Identifies lost bits
+
 # Thinking Process
 
 ![IMG_E0012](https://user-images.githubusercontent.com/113077964/214472721-835c1eaa-db26-4b82-b255-e10782ad9856.JPG)
