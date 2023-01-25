@@ -4,3 +4,5 @@ Welcome to my Quantum Cryptography Simulation. This is a summative I have worked
 
 ![image](https://user-images.githubusercontent.com/113077964/214464300-072a5798-edf5-4e5d-9025-3c8621e34541.png)
 
+# Thinking Process
+
