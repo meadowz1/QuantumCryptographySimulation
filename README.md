@@ -13,6 +13,13 @@ This program was written in Python v3.6
 - Option to pick between hacker and no hacker
 - Identifies lost bits
 
+# How To Use: 
+![image](https://user-images.githubusercontent.com/113077964/214476719-bca2cb66-650b-4b22-ab53-db56302d8b8d.png)
+- Run the code in any Python supporting IDE
+- Input the number of bits you would like to simulate
+- Write 1 if you would like to simulate without hacker and write 2 if you would like to simulate with hacker
+- Let the code run and read the results
+
 # Thinking Process
 
 ![IMG_E0012](https://user-images.githubusercontent.com/113077964/214472721-835c1eaa-db26-4b82-b255-e10782ad9856.JPG)
